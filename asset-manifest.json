@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/phongvu_app/static/css/main.89507541.chunk.css",
+    "main.css": "/phongvu_app/static/css/main.1b9bdf0e.chunk.css",
     "main.js": "/phongvu_app/static/js/main.16864ac2.chunk.js",
     "main.js.map": "/phongvu_app/static/js/main.16864ac2.chunk.js.map",
     "runtime-main.js": "/phongvu_app/static/js/runtime-main.14f3749f.js",
@@ -10,7 +10,7 @@
     "static/js/2.b3a64d95.chunk.js.map": "/phongvu_app/static/js/2.b3a64d95.chunk.js.map",
     "index.html": "/phongvu_app/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/phongvu_app/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.89507541.chunk.css.map": "/phongvu_app/static/css/main.89507541.chunk.css.map",
+    "static/css/main.1b9bdf0e.chunk.css.map": "/phongvu_app/static/css/main.1b9bdf0e.chunk.css.map",
     "static/js/2.b3a64d95.chunk.js.LICENSE.txt": "/phongvu_app/static/js/2.b3a64d95.chunk.js.LICENSE.txt",
     "static/media/bg-cart-big-size-wifi.8097fe06.png": "/phongvu_app/static/media/bg-cart-big-size-wifi.8097fe06.png"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.14f3749f.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.b3a64d95.chunk.js",
-    "static/css/main.89507541.chunk.css",
+    "static/css/main.1b9bdf0e.chunk.css",
     "static/js/main.16864ac2.chunk.js"
   ]
 }
