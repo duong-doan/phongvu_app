@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/phongvu_app/static/css/main.ca4a249f.chunk.css",
-    "main.js": "/phongvu_app/static/js/main.1309cf9c.chunk.js",
-    "main.js.map": "/phongvu_app/static/js/main.1309cf9c.chunk.js.map",
+    "main.js": "/phongvu_app/static/js/main.fbc5cedd.chunk.js",
+    "main.js.map": "/phongvu_app/static/js/main.fbc5cedd.chunk.js.map",
     "runtime-main.js": "/phongvu_app/static/js/runtime-main.14f3749f.js",
     "runtime-main.js.map": "/phongvu_app/static/js/runtime-main.14f3749f.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/phongvu_app/static/css/2.4c97ca4f.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.89f625ff.chunk.js",
     "static/css/main.ca4a249f.chunk.css",
-    "static/js/main.1309cf9c.chunk.js"
+    "static/js/main.fbc5cedd.chunk.js"
   ]
 }
